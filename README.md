@@ -22,7 +22,7 @@ This is a simple and responsive weather application built using JavaScript, HTML
 
 	1.	Clone or download the repository:
 
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Achraf921/weather-app.git
 
 
 	2.	Open the IndexW.html file in your browser.
